@@ -1,0 +1,154 @@
+Start Print : 
+
+
+Charachter pos: 2
+Current now : 0
+
+While loop : 
+
+End of while loop.
+
+if not true pi[2] = 0
+Charachter pos: 3
+Current now : 0
+
+While loop : 
+
+End of while loop.
+
+if true pi[3] = 1
+Charachter pos: 4
+Current now : 1
+
+While loop : 
+
+End of while loop.
+
+if true pi[4] = 2
+Charachter pos: 5
+Current now : 2
+
+While loop : 
+
+Change In Loop of now :  0
+End of while loop.
+
+if not true pi[5] = 0
+Charachter pos: 6
+Current now : 0
+
+While loop : 
+
+End of while loop.
+
+if true pi[6] = 1
+Charachter pos: 7
+Current now : 1
+
+While loop : 
+
+End of while loop.
+
+if true pi[7] = 2
+Charachter pos: 8
+Current now : 2
+
+While loop : 
+
+Change In Loop of now :  0
+End of while loop.
+
+if not true pi[8] = 0
+Charachter pos: 9
+Current now : 0
+
+While loop : 
+
+End of while loop.
+
+if true pi[9] = 1
+Charachter pos: 10
+Current now : 1
+
+While loop : 
+
+End of while loop.
+
+if true pi[10] = 2
+Charachter pos: 11
+Current now : 2
+
+While loop : 
+
+Change In Loop of now :  0
+End of while loop.
+
+if not true pi[11] = 0
+Charachter pos: 12
+Current now : 0
+
+While loop : 
+
+End of while loop.
+
+if true pi[12] = 1
+Charachter pos: 13
+Current now : 1
+
+While loop : 
+
+End of while loop.
+
+if true pi[13] = 2
+Charachter pos: 14
+Current now : 2
+
+While loop : 
+
+End of while loop.
+
+if true pi[14] = 3
+Charachter pos: 15
+Current now : 3
+
+While loop : 
+
+End of while loop.
+
+if true pi[15] = 4
+Charachter pos: 16
+Current now : 4
+
+While loop : 
+
+End of while loop.
+
+if true pi[16] = 5
+Charachter pos: 17
+Current now : 5
+
+While loop : 
+
+End of while loop.
+
+if true pi[17] = 6
+Charachter pos: 18
+Current now : 6
+
+While loop : 
+
+End of while loop.
+
+if true pi[18] = 7
+Charachter pos: 19
+Current now : 7
+
+While loop : 
+
+End of while loop.
+
+if true pi[19] = 8
+
+
+Final ans:
+0012012012012345678
